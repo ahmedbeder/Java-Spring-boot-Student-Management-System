@@ -1,0 +1,11 @@
+com\studentmgr\json\JsonResponse.class
+com\studentmgr\controller\TemplateController.class
+com\studentmgr\model\Student.class
+com\studentmgr\service\StudentService.class
+com\studentmgr\service\impl\StudentServiceImpl.class
+com\studentmgr\App.class
+com\studentmgr\dao\impl\StudentDaoImpl.class
+com\studentmgr\service\HRService.class
+com\studentmgr\config\AppConfiguration.class
+com\studentmgr\dao\StudentDao.class
+com\studentmgr\service\impl\HRServiceImpl.class

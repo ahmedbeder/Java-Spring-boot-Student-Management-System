@@ -1,0 +1,13 @@
+# Spring properties
+spring:
+  application:
+    name: student-management-system
+  mvc:
+    view:
+      prefix: /WEB-INF/jsp/
+      suffix: .jsp
+
+
+# HTTP Server
+server:
+  port: @http.port@ # HTTP (Tomcat) port
